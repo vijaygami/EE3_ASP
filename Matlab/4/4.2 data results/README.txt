@@ -1,0 +1,1 @@
+These files contain the MSE and averaged coefficient error as a function of time index. 1000 samplefunctions have been averaged to collect the results. The filename indicates the value of the learning rate ,u, used to obtain each set of data.
